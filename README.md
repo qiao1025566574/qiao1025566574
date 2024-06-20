@@ -1,6 +1,12 @@
-<img align="right" alt="GIF" src="./gif/bubu.gif" />
+<img align="left" alt="PNG" src="./png/qiao.png" width=10% />
+<img align="right" alt="GIF" src="./gif/bubu.gif" width="35%" />
+
+
+<br><br><br>
 
 ### I'm Guanhui Qiao(乔冠辉)
+
+
 
 - 👶🏻97年, born in 河南
 - 🏫中科院自动化所计算机专业博三在读, 武汉实习ing
