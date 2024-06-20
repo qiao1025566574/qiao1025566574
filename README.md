@@ -1,5 +1,5 @@
 <img align="left" alt="PNG" src="https://s3.bmp.ovh/imgs/2024/06/20/a2b128e82e5e3912.png" width=10% />
-<img align="right" alt="GIF" src="./gif/bubu.gif" width="35%" />
+<img align="right" alt="GIF" src="https://s3.bmp.ovh/imgs/2024/06/20/f383e39618937618.gif" width="35%" />
 
 
 <br><br><br>
