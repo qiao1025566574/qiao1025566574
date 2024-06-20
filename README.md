@@ -1,6 +1,5 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-## I'm Guanhui Qiao(乔冠辉)
+### I'm Guanhui Qiao(乔冠辉)
 
 - 👶🏻97年, born in 河南
 - 🏫中科院自动化所计算机专业博三在读, 武汉实习ing
@@ -11,7 +10,7 @@
 - 📓新手剧本杀玩家
 - 🌍热爱阳明心学
 
-## 📈 数据是不会说谎的
+### 📈 数据是不会说谎的
 ### 日时间统计(2024.06.19)
 <img src='./png/new_20240619_pie.png' width="50%"><img src='./png/new_20240619_plot.png' width="50%">
 
