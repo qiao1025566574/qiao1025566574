@@ -16,12 +16,10 @@
 <img src='./png/new_20240619_pie.png' width="50%"><img src='./png/new_20240619_plot.png' width="50%">
 
 ### 周时间统计(2024.06.09-2024.06.15)
-<img src='./png/202406week03_table_show.png' width="100%">
-<img src='./png/202406week03_emotion_show.png' width="100%">
+<img src='./png/202406week03_table_show.png' width="50%"><img src='./png/202406week03_emotion_show.png' width="50%">
 
 ### 月时间统计(2024.06.01-2024.06.30)
-<img src='./png/202405_pie.png' width="100%">
-<img src='./png/202405_work_time.png' width="100%">
+<img src='./png/202405_pie.png' width="50%"><img src='./png/202405_work_time.png' width="50%">
 
 ## 联系我
 
