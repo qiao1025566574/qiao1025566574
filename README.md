@@ -8,17 +8,18 @@
 - ⭐柳比歇夫时间记录统计法当代实践者
 - 🎮炉石传说7年玩家
 - 🏅堕拉攻忠实挑战者(健身环大冒险)
+- 📓新手剧本杀玩家
 - 🌍热爱阳明心学
 
 ## 📈 数据是不会说谎的
 ### 日时间统计(2024.06.19)
+<img src='./png/new_20240619_pie.png' width="50%"><img src='./png/new_20240619_plot.png' width="50%">
 
 ### 周时间统计(2024.06.09-2024.06.15)
-
+<img src='./png/202406week03_table.png' width="100%">
 ### 月时间统计(2024.06.01-2024.06.30)
-
-## 志向
-> ***承阳明之心学，明圣贤之大道***
+<img src='./png/202405_pie.png' width="100%">
+<img src='./png/202405_work_time.png' width="100%">
 
 ## 联系我
 
@@ -27,4 +28,5 @@
 |邮箱|1811076159@163.com|
 |微信|doctor0324|
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+## 个性签名
+> 承阳明之心学，明圣贤之大道
